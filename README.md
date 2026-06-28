@@ -1,4 +1,5 @@
 # Adidas Customer Sales Report (2011-2014)
+![Cover Page](https://github.com/Adenuga-Adeyemi/Customers-Sales-Report/blob/main/Code_Generated_Image.jpg)
 
 ## Introduction
 This project presents a comprehensive **Adidas Customer Sales Analysis and Interactive Dashboard** built in Microsoft Excel. The analysis covers sales data from **2011 to 2014**, providing key performance insights into customer behavior, revenue trends, product performance, and geographic distribution.
