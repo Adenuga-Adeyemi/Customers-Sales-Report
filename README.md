@@ -5,6 +5,8 @@ This project presents a comprehensive **Adidas Customer Sales Analysis and Inter
 
 The solution includes raw data processing, pivot tables, interactive slicers, and polished executive dashboards for data-driven decision making.
 
+<grok-card data-id="8Sbuh" data-type="generated_image_card" data-plain-type="render_generated_image"  data-arg-prompt="Create%20a%20professional%2C%20modern%20landscape%20cover%20page%20for%20%22Adidas%20Customer%20Sales%20Report%202011-2014%22.%20Dark%20background%20with%20bold%20red%20and%20white%20accents%20(Adidas%20brand%20colors).%20Large%20centered%20title%20%22ADIDAS%20CUSTOMER%20SALES%20REPORT%22%20in%20bold%20sans-serif%20font.%20Subtitle%20%222011%20-%202014%22%20below%20it.%20Minimal%20text%3A%20include%20%22Executive%20Summary%20%26%20Dashboard%22%20at%20the%20bottom.%20Include%20subtle%20Adidas%20logo%20style%20elements%2C%20abstract%20sales%20growth%20graph%20lines%2C%20and%20world%20map%20silhouette.%20Clean%2C%20minimalistic%2C%20high-end%20corporate%20design.%20High%20resolution%2C%20landscape%20orientation%2016%3A9%20ratio."  data-arg-orientation="landscape" ></grok-card>
+
 ## Objective
 The main objectives of this project were to:
 - Analyze historical sales performance of Adidas products across multiple years.
