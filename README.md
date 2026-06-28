@@ -5,10 +5,6 @@ This project presents a comprehensive **Adidas Customer Sales Analysis and Inter
 
 The solution includes raw data processing, pivot tables, interactive slicers, and polished executive dashboards for data-driven decision making.
 
-![Analysis Sheet](https://github.com/Adenuga-Adeyemi/Customers-Sales-Report/blob/main/Screenshot%202026-06-18%20185015.png)  
-![Executive Dashboard](https://github.com/Adenuga-Adeyemi/Customers-Sales-Report/blob/main/Screenshot%202026-06-25%20161637.png)  
-![Sales Dashboard](https://github.com/Adenuga-Adeyemi/Customers-Sales-Report/blob/main/Screenshot%202026-06-25%20161826.png)
-
 ## Objective
 The main objectives of this project were to:
 - Analyze historical sales performance of Adidas products across multiple years.
@@ -39,6 +35,7 @@ The dataset includes the following key fields:
 - **Total Revenue**: £5,180,929
 - **Total Products**: 25
 - **Total Countries**: 10
+![Analysis Sheet](https://github.com/Adenuga-Adeyemi/Customers-Sales-Report/blob/main/Screenshot%202026-06-18%20185015.png)
 
 ### Revenue by Month
 Monthly revenue shows seasonal fluctuations with peaks in certain months (e.g., November and March showed strong performance in the data).
@@ -59,6 +56,7 @@ The project features two main interactive dashboards:
 - **Top 10 Customers** – Horizontal bar chart.
 - **Gender Analysis** – Pie chart (68% Male, 32% Female).
 - **Age Group Analysis** – Pie chart (Adult dominant).
+![Executive Dashboard](https://github.com/Adenuga-Adeyemi/Customers-Sales-Report/blob/main/Screenshot%202026-06-25%20161637.png)
 
 ### 2. Sales Dashboard
 - **Revenue by Country** – World map highlighting key markets (e.g., Canada, Australia).
@@ -66,6 +64,7 @@ The project features two main interactive dashboards:
 - **Product Category Analysis** – Donut/Pie chart (Clothing, Footwear, Accessories, Outerwear).
 - **Payment Method Analysis** – Bar chart showing distribution (Credit Card, PayPal, etc.).
 - Interactive **Year Slicer** (2011–2014) for dynamic filtering.
+![Sales Dashboard](https://github.com/Adenuga-Adeyemi/Customers-Sales-Report/blob/main/Screenshot%202026-06-25%20161826.png)
 
 All visualizations are connected via slicers for real-time interactivity.
 
