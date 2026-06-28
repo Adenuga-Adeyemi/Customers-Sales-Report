@@ -7,7 +7,7 @@ The solution includes raw data processing, pivot tables, interactive slicers, an
 
 ![Analysis Sheet](https://github.com/Adenuga-Adeyemi/Customers-Sales-Report/blob/main/Screenshot%202026-06-18%20185015.png)  
 ![Executive Dashboard](https://github.com/Adenuga-Adeyemi/Customers-Sales-Report/blob/main/Screenshot%202026-06-25%20161637.png)  
-![Sales Dashboard](https://via.placeholder.com/800x500?text=Sales+Dashboard)
+![Sales Dashboard](https://github.com/Adenuga-Adeyemi/Customers-Sales-Report/blob/main/Screenshot%202026-06-25%20161826.png)
 
 ## Objective
 The main objectives of this project were to:
