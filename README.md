@@ -6,7 +6,7 @@ This project presents a comprehensive **Adidas Customer Sales Analysis and Inter
 The solution includes raw data processing, pivot tables, interactive slicers, and polished executive dashboards for data-driven decision making.
 
 ![Analysis Sheet](https://github.com/Adenuga-Adeyemi/Customers-Sales-Report/blob/main/Screenshot%202026-06-18%20185015.png)  
-![Executive Dashboard](https://via.placeholder.com/800x500?text=Executive+Dashboard)  
+![Executive Dashboard](https://github.com/Adenuga-Adeyemi/Customers-Sales-Report/blob/main/Screenshot%202026-06-25%20161637.png)  
 ![Sales Dashboard](https://via.placeholder.com/800x500?text=Sales+Dashboard)
 
 ## Objective
